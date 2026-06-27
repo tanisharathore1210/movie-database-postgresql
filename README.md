@@ -1,4 +1,4 @@
-# 🎬 Movie Database Management System (PostgreSQL)
+# 🎬 MovieVerse: SQL-Based Movie Database Management & Analysis
 
 ## 📌 Project Overview
 
