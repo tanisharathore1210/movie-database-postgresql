@@ -73,30 +73,6 @@ These tables are connected using Primary Keys and Foreign Keys.
 
 ---
 
-## 📁 Project Structure
-
-Movie-Database-PostgreSQL/
-
-│── Movie_Project.sql
-
-│── README.md
-
-│── screenshots/
-
-│── ER_Diagram.png (Optional)
-
----
-
-## 🚀 How to Run
-
-1. Open pgAdmin.
-2. Create a PostgreSQL database.
-3. Open Query Tool.
-4. Execute Movie_Project.sql.
-5. Run the analysis queries.
-
----
-
 ## 📚 Learning Outcomes
 
 This project demonstrates:
