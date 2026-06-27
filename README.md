@@ -12,8 +12,6 @@ The database stores information about movies, actors, genres, users, and movie r
 
 - PostgreSQL
 - SQL
-- pgAdmin 4
-
 ---
 
 ## 📂 Database Schema
